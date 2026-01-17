@@ -1,4 +1,9 @@
+# Core Data Analysis
 pandas
+
+# Visualization
 matplotlib
 seaborn
+
+# Machine Learning
 scikit-learn
